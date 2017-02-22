@@ -1,0 +1,16 @@
+body {
+    font-family: "Verdana";
+    background-color: #ffe6ff;
+}
+
+#box {
+    border: none;
+    outline: none;
+    font-size: 30px;
+    font-family: "Verdana";
+    background-color: #ffe6ff;
+}
+
+#chat, #type {
+    font-size: 30px;
+}
